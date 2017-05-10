@@ -14,6 +14,7 @@
 	h1, h2, h3, h4{
     	/*color: #8F908A;*/
 		background-color: rgba(0,0,0,0) !important;
+		color: #9b9b9b;
 	}
 
 	.plans .plans-header h1, .plans .plans-header h2, .plans .plans-header p {
