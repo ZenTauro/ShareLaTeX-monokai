@@ -323,4 +323,17 @@ tags-input .tags {
 	.page-header, .template-section-header {
     	border-bottom: 1px solid #2f3129;
 	}
+
+/*Review dropdown*/
+	.resolved-comments-dropdown::before {
+	    border-color: transparent transparent #272822;
+	    border-top-color: transparent;
+	    border-right-color: transparent;
+	    border-bottom-color: #272822;
+	    border-left-color: transparent;
+	    border-style: solid;
+	}
+.resolved-comments-dropdown {
+    background-color: #272822;
+}
 }
