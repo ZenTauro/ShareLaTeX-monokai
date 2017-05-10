@@ -291,6 +291,24 @@ tags-input .tags {
 	.alert-info {
 	    background-color: rgba(234, 232, 232, 0.87);
 	}
+/*Upgrade History back*/
+	#history .upgrade-prompt {
+		background-color: rgba(0,0,0,.4);
+	}
+	#history aside.change-list ul li.change .description {
+	    border-bottom: 1px solid #2f3129;
+	}
+	#history aside.change-list ul li:hover{
+		color: rgba(123,123,123,.9);	
+	}
+	#history aside.change-list ul li.change .day {
+		background-color: #505050;
+		color: #a4a4a4;
+	    border-bottom: 1px solid #2f3129;
+	}
+	#history aside.change-list {
+	    border-left: 1px solid #2f3129;
+	}
 
 /*Terms of use fix*/
 	.page-header, .template-section-header {
